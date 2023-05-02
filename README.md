@@ -6,7 +6,7 @@ Steps to run assignment project.
 2. Go to root directory of the project.
 3. Build the project : mvn clean install
 4. Run the project : java -jar ./target/daofab-0.0.1-SNAPSHOT.jar
-5. Varify assignment tasks.
+5. Verify assignment tasks.
 
 First Task Rest Api : GET : http://localhost:8080/daofab-api/v1/parent-transactions?page=0&size=3
 
